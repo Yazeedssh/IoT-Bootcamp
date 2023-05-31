@@ -6,6 +6,7 @@ Our project that won the third place in IoT Bootcamp
 
 ### Components used in this project:
 
+```ESP32 kit```
 ```Laser```
 ```Photosensetive resistor (LDR)```
 ```Buzzer```
